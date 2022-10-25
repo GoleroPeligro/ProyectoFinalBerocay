@@ -150,6 +150,7 @@ body{
     margin-top: 10px;
 }
 .div-prod{
+    min-width: 200px;
     display: inline-block;
     background: #a0a0a4;
     position: relative;
